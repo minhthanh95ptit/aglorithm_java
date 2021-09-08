@@ -1,0 +1,2 @@
+- Arrays.sort - sort cho mang 
+- Collections.sort - sort cho dang conlection

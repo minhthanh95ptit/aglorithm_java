@@ -1,0 +1,7 @@
+- Y tuong:
++ Chia mang thanh 2 phan
++ Sap xep cac phan
++ Tron vao
+
+Chia ra toi khi khong chia duoc nua 
+Tron 2 mang lai thanh 1, lien tuc cho den khi ra duoc mang dang sap xep

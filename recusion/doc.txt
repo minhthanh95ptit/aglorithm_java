@@ -1,0 +1,21 @@
+Recursionon - ham tu goi chinh no
+Vuot qua gioi han cua noi luu tru goi la Stack over flow
+Khi su dung de quy khi:
+- quy nap. 
+Giai thua: 0! = 1
+n! = n * (n - 1)!
+
+2 loai de quy:
+- De quy thuc hien cong viec truoc
+- De quy thuc hien cong viec sau
+
+Uu/Nhuoc:
+- Ngan gon - de hinh dung
+- De implement 
+Nhuoc:
+- De gay stack over flow
+- ton thoi gian va khong gian bo nho (Lap lai nhu tinh fibo)
+
+Khu va toi uu de quy: 
+- Khong ap dung F(n) cho tinh toan co so 
+- Khu de quy la khong dung de quy
