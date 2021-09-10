@@ -35,16 +35,16 @@ public class SortInJava {
    }
    public static void main(String[] args) {
         //Sort in array
-      // int[] intArr = {3,2,1,0};
-      // Arrays.sort(intArr);
-      // System.out.println(Arrays.toString(intArr));
-      // //Sort in string
-      // String[] stringArr = {"1","0000","d","3"};
-      // Arrays.sort(stringArr);
-      // System.out.println(Arrays.toString(stringArr));
-      //Sort collection
-      // String name;
-      // int age;
+      int[] intArr = {3,2,1,0};
+      Arrays.sort(intArr);
+      System.out.println(Arrays.toString(intArr));
+      //Sort in string
+      String[] stringArr = {"1","0000","d","3"};
+      Arrays.sort(stringArr);
+      System.out.println(Arrays.toString(stringArr));
+      Sort collection
+      String name;
+      int age;
       Student[] students = { new Student("AAA",20), new Student("BBB",10)};
       
       Arrays.sort(students);

@@ -1,0 +1,2 @@
+sudo tar -C /usr/local --strip-components 1 -xvf node-v14.17.5-linux-x64.tar.xz
+
